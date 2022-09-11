@@ -2,6 +2,8 @@
 
 # studentgradechecker-frontend-40040160
 
+### NOTE: URL's found inside the 'app.js' file need changed to match the developer's own, e.g., via Docker on localhost:85, etc.
+
 Student Grade Checker is a microservice application designed as part of the Queen's University Belfast MSc Software Development Cloud Computing module (CSC7071).
 
 The frontend utilises Bootstrap CSS and JS along with custom HTML and JS to send HTTP requests with form data to the appropriate backend service, e.g., student
